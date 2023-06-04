@@ -1,9 +1,8 @@
+Hi 👋 My name is Alexander Kryukov
+==================================
 <div id="header" align="center">
   <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100](https://media.giphy.com/media/JPsFUPp3vLS5q/giphy.gif)"/>
 </div>
-
-Hi 👋 My name is Alexander Kryukov
-==================================
 
 I have been studied in St. Petersburg State University of Economics, direction economics. Then I started working
 
