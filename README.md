@@ -1,7 +1,6 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjUwZThmNDJkNzEzMmQ5Y2QwMmQ3NzJlZjJmNTljN2E3Y2JiYWU5NSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/lr24wONU2paokQfICt/giphy.gif"/> 
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzllYWEyZWU4YTM4YzE1ZDc4NmQ3MzE0OTQzZjIwNDQ4Y2YzYzU1NiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/ToMjGpyHdJiioVfdtK0/giphy.gif" width="100"/>
 </div>
-
 
 Hi 👋 My name is Alexander Kryukov
 ==================================
