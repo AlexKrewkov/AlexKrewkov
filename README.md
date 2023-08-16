@@ -5,7 +5,7 @@
 Hi 👋 My name is Alexander Kryukov
 ==================================
 
-I have been studied in St. Petersburg State University of Economics, direction economics. Then I started working
+I have been studied in St. Petersburg State University of Economics, direction economics. 
 
 * 🌍  I'm based in St. Petersburg
 * ✉️  You can contact me at [Kryukov26@yandex.ru](mailto:Kryukov26@yandex.ru)
